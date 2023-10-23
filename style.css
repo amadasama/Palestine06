@@ -277,7 +277,7 @@ footer {
 @media only screen and (width: 980px){
     body {
         background-image: url(images/980.png);
-        background-attachment: scroll;
+        background-attachment: fixed;
             
         background-size: cover;
         font-family: 'Montserrat', sans-serif;
